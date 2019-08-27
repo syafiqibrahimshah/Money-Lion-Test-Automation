@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="api.CreateNewHotelBookingTests" skipped="0" tests="1" time="4.25" timestamp="2019-08-27 11:36:26"><testcase classname="api.CreateNewHotelBookingTests" name="Create new booking from april27th to april30th with total price of2389 without paying deposit"/></testsuite>

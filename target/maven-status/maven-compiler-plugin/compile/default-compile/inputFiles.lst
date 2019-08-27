@@ -1,0 +1,10 @@
+/home/syafiq/MoneyLionTestAutomation/src/main/java/dataentities/Booking.java
+/home/syafiq/MoneyLionTestAutomation/src/main/java/pages/MoneyLionProductRewardsPage.java
+/home/syafiq/MoneyLionTestAutomation/src/main/java/dataentities/CreateNewHotelBookingPostResponse.java
+/home/syafiq/MoneyLionTestAutomation/src/main/java/pages/MoneyLionProductInvestingPage.java
+/home/syafiq/MoneyLionTestAutomation/src/main/java/steps/api/VerifyHotelBookingApiRequest.java
+/home/syafiq/MoneyLionTestAutomation/src/main/java/dataentities/BookingDates.java
+/home/syafiq/MoneyLionTestAutomation/src/main/java/steps/api/CreateNewHotelBookingApiRequest.java
+/home/syafiq/MoneyLionTestAutomation/src/main/java/steps/ui/NewCustomerSteps.java
+/home/syafiq/MoneyLionTestAutomation/src/main/java/pages/MoneyLionPlusMembershipPage.java
+/home/syafiq/MoneyLionTestAutomation/src/main/java/pages/HomePage.java

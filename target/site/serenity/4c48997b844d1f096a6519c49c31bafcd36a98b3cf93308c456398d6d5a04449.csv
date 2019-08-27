@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Money lion product investing page UI test","Able to verify total deposited amount over a period of time","SUCCESS","2019-08-27T23:36:32.964+08:00[Asia/Kuala_Lumpur]","0.0","60.49"
+"Money lion product rewards page UI test","Able to see ways to earn rewards","SUCCESS","2019-08-27T23:37:35.823+08:00[Asia/Kuala_Lumpur]","0.0","104.79"
+"Money lion plus membership page UI test","Able to access money lion plus membership page successfully","SUCCESS","2019-08-27T23:39:21.899+08:00[Asia/Kuala_Lumpur]","0.0","22.42"

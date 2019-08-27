@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="ui.MoneyLionProductInvestingPageUITest" skipped="0" tests="1" time="60.49" timestamp="2019-08-27 11:36:32"><testcase classname="ui.MoneyLionProductInvestingPageUITest" name="Able to verify total deposited amount over a period of time"/></testsuite>

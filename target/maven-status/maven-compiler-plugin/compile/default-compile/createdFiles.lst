@@ -1,0 +1,10 @@
+steps/api/CreateNewHotelBookingApiRequest.class
+pages/MoneyLionPlusMembershipPage.class
+pages/MoneyLionProductInvestingPage.class
+pages/HomePage.class
+steps/api/VerifyHotelBookingApiRequest.class
+pages/MoneyLionProductRewardsPage.class
+dataentities/Booking.class
+dataentities/BookingDates.class
+steps/ui/NewCustomerSteps.class
+dataentities/CreateNewHotelBookingPostResponse.class
