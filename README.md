@@ -23,7 +23,7 @@ Run UI tests only:
 $ mvn clean verify -Dtags="component:UI"
 ```
 
-## Preparing for Development
+## Preparing for Development or Execution
 
 Follow these steps to start developing with this project:
 
