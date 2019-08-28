@@ -40,3 +40,10 @@ webdriver.gecko.driver=[PATH TO THE DRIVER]
 7. Run test `mvn clean verify`.
 8. Upon test run complete. A detailed report will be generated in `/target/site/serenity/index.html`.
 9. Open `index.html` file with a browser to view report.
+
+## Preparing for Development
+
+Follow these steps:
+1. Install Eclipse IDE.
+2. Import -> Maven -> Existing Maven Projects.
+
