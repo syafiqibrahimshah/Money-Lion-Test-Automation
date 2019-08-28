@@ -30,13 +30,16 @@ Follow these steps:
 1. Ensure Java >= 1.8 version is installed [installation link](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 2. Ensure Apache Maven >= 3.0 version is installed [installation link](https://maven.apache.org/install.html)
 3. Ensure Gecko Webdriver >= v0.24.0 is install [installation link](https://docs.seleniumhq.org/download/)
-3. Clone repository: `git clone https://github.com/syafiqibrahimshah/MoneyLionTestAutomation.git`
-3. `cd` into the repository
-4. Open /src/test/resources and fill in the path to your selenium driver
+4. Clone repository: `git clone https://github.com/syafiqibrahimshah/MoneyLionTestAutomation.git`
+5. `cd` into the repository
+6. Open /src/test/resources and fill in the path to your selenium driver
 ```
 webdriver.driver=firefox
 webdriver.gecko.driver=[PATH TO THE DRIVER]
 ```
-5. Upon test run complete. A detailed report will be generated in /target/site/serenity/index.html
-6. Open index.html with a browser.
+7. Run test
+```mvn clean verify```
+8.pon test run complete. A detailed report will be generated in
+```/target/site/serenity/index.html```
+6. Open index.html file with a browser to view report.
 
