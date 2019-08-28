@@ -39,4 +39,4 @@ webdriver.gecko.driver=[PATH TO THE DRIVER]
 ```
 7. Run test `mvn clean verify`.
 8. Upon test run complete. A detailed report will be generated in `/target/site/serenity/index.html`.
-9. Open index.html file with a browser to view report.
+9. Open `index.html` file with a browser to view report.
