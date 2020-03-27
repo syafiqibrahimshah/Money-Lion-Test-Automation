@@ -1,7 +1,7 @@
 Money Lion Test Automation
 ========
 
-A mini runnable test automation framework and scripts verifying test scenarios in https://www.moneylion.com/
+Sample test automation framework.
 
 ## Usage
 
